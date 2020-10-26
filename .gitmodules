@@ -1,0 +1,6 @@
+[submodule "Project-2-FrontEnd"]
+	path = Project-2-FrontEnd
+	url = https://github.com/2002javareact/Project-2-FrontEnd.git
+[submodule "Project-2-BackEnd"]
+	path = Project-2-BackEnd
+	url = https://github.com/2002javareact/Project-2-BackEnd.git
